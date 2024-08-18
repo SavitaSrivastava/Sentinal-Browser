@@ -1,21 +1,15 @@
-# SWeb - Android Simple Web Browser
+Sentinal Browser is a secure, privacy-focused web browser designed to protect your online activities from tracking, data collection, and intrusive ads. Built to run locally on your device, Sentinal Browser ensures that your browsing data stays private, and your online experience is fast, clean, and safe.
 
-This is a small and simple WebView-based browser. Among its distinctive features are:
+Key Features
+Privacy-First: Sentinal Browser operates independently of large corporations, ensuring that your data is never stored, shared, or sold.
+Local Operation: Everything from your browsing history to your bookmarks is stored securely on your device, not in the cloud.
+Built-in Adblocker: Block intrusive ads automatically, improving your browsing speed and security.
+Advanced Security: Equipped with anti-tracking and anti-fingerprinting technologies to protect your online identity.
+Comprehensive Log Viewer: Provides transparency by showing you the actions the browser has taken to protect your privacy.
+Customizable Bookmarks: Organize your favorite websites securely and privately.
+Why Sentinal Browser?
+Mainstream browsers like Google Chrome collect and sell user data to third parties. Sentinal Browser offers a secure alternative, ensuring that your online activities remain private. With Sentinal, you get:
 
-- Night mode for websites (gray text on black background)
-- Adblocker, uses Easylist rule files
-- Log and display all HTTP requests made by a page, e.g., embedded picture, audio, video files
-
-Other features:
-- Bookmarks, including import and export to the standard bookmarks HTML file
-- Undo closed tab
-- Find text on page
-- Use a desktop user-agent
-
-### Download
-Download SWeb.apk from the [Releases](https://github.com/alandau/sweb/releases/latest) page.
-
-### License
-MIT
-
-If you find issues or want to contribute, please open a GitHub issue or pull request.
+No Data Collection: We don’t store your data or share it with anyone.
+No Third-Party Trackers: Sentinal blocks trackers that follow you across the web.
+No Intrusive Ads: Browse faster without annoying ads slowing you down.
